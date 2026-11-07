@@ -1,3 +1,7 @@
+![MKS banner: a foley stage in charcoal and oak, a row of different mice lined up on the table like instruments under a hanging silver studio microphone, soft rings spreading from the center mouse's click, foam panels behind and a small red LIVE sign glowing on the wall](banner.png)
+
+<p align="center"><img src="logo.png" alt="MKS logo: a black computer mouse on an oak foley table under a silver studio microphone in its shock mount, pale rings around its scroll wheel as if it has just clicked, charcoal foam pyramids behind and a red light washing the microphone" width="200"></p>
+
 # MKS: Mouse Click Sounds
 
 Do you love satisfying click sounds when using your mouse? Are you tired of the silent, lifeless clicking of modern mice that provide no audio feedback? Well, you are in luck! I have a program that will bring back that wonderful clicking sound you love so much. It's called Mouse Click Sounds, or MKS for short.
